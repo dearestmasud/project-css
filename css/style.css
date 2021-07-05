@@ -1,0 +1,10 @@
+h1{
+    color: brown;
+    display: inline-block;
+}
+h2{
+    display: inline;
+}
+small{
+    display: block;
+}
